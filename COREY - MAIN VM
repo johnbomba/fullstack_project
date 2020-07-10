@@ -1,0 +1,6 @@
+ - Platform is for VMWare
+ - https://reedphish.wordpress.com/2017/02/14/an-unofficial-guide-to-creating-ctf-vms/
+  - Need to set up so that it sets up a cron on blake to access web on localhost
+  - Ubuntu / Linux - simple as possible
+   - Same OS as BLAKE
+   
