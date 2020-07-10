@@ -1,0 +1,28 @@
+**Final Project**
+
+* Networked VM's 
+* One is vuln (xxs)
+* one is set to autodetect the vuln
+* MVP is the vuln
+* auto-detect comes second
+
+
+
+*Vuln Vm*
+ - Vm Details
+     - Unbuntu
+ - Stage One - XSS
+      - Apache Web Server with know vuln
+      - Old version of WP
+ - Stage Two - Directory Traversal
+     - ???
+ - Stage Three - Local File Inclusion
+     - ???
+ - Stage Four - Privilge Esc
+     - Bash One Liner (John)
+     - https://www.theregister.com/2018/10/25/x_org_server_vulnerability/
+
+*Networked VM*
+ - Possible wiped copy of vuln VM
+ - Networked on locat host
+ - ?Auto-Dectect?
